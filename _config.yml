@@ -1,0 +1,28 @@
+name: The Quiet Bottom
+favicon: null
+layout_spectrum: 0.911518677836284
+typography_spectrum: 0.6345174021553248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3980218367651105
+  lightness: 0.2994440929032862
+  saturation: 0.9852401858661324
+  rhythmicContrast: 0.7701241504400969
+purpose: []
